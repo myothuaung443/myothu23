@@ -11,17 +11,17 @@ Edit the TRUE file.
 Edit DTAC files
 Add function to page load
 ",
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
 // don't mess with the bottom
 "latestVersion": "1.0.0",
 "latestVersionCode": "1",
 "url": "",
-"releaseNotes": [
-"-Demo"
-  ]
+ "releaseNotes": [
+ "-Demo"
+  ]
 }
